@@ -45,7 +45,7 @@ The project includes experimentation with various configurations, comparison of 
 ## Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ml-algorithms-evaluation.git
+git clone https://github.com/Mohammed-Abed-Alkareem/ML-Algorithms-Evaluation
 cd ml-algorithms-evaluation
 ```
 
